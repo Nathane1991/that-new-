@@ -1,0 +1,7 @@
+numpy
+gradio
+requests
+python3 
+Prodia API
+
+Install these ahead of time. Prodia's API has free image creation up to 1,000 images (subject to change). 
